@@ -1,0 +1,10 @@
+{
+	"version" : "0.1.1",
+	"name" : "jinterfaces",
+	"description" : "Interfaces and annotations shared across twg2 projects. Copyable, Destroyable, Factory, Immutable, and more",
+	"homepage" : "https://github.com/TeamworkGuy2/JInterfaces",
+	"license" : "MIT",
+	"main" : "./bin/jinterfaces.jar",
+	"dependencies" : {
+	}
+}
